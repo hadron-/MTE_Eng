@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Indicator points" version="3.3.1" annotation="" tag="Misc">
+    <resource description="screen_view_seekpoint_normal" x="210" y="1084" width="294" height="20" uuid="c9232775-3a7c-4e71-b46b-b0dd31329aec">
+        <path src="res\drawable-xhdpi\screen_view_seekpoint_highlight.png" description="当前页面" />
+        <path src="res\drawable-xhdpi\screen_view_seekpoint_normal.png" description="未选中页面" />
+    </resource>
+</screenshot>

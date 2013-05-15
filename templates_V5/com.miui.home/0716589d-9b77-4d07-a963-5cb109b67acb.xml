@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="5.1 Uninstall interface" version="3.2.27" annotation="" tag="Uninstall">
+    <resource description="uninstall_dialog_bg_pt" x="0" y="0" width="720" height="328" uuid="4e1535e0-c96c-4905-83d3-ceca3302848b">
+        <path src="res\drawable-xhdpi\uninstall_dialog_bg_pt.png" description="卸载背景" />
+    </resource>
+    <resource description="screen_disable_top_mask.9" x="0" y="330" width="720" height="408" uuid="5911ae95-93f2-43ee-9249-4f5d94155d2e">
+        <path src="res\drawable-xhdpi\screen_disable_top_mask.9.png" description="遮罩层" />
+    </resource>
+    <resource description="uninstall_dialog_left_btn_n.9" x="26" y="177" width="320" height="117" uuid="b5824938-70c1-4980-93c3-231bb99b1553">
+        <path src="res\drawable-xhdpi\uninstall_dialog_left_btn_n.9.png" description="左边按钮" />
+        <path src="res\drawable-xhdpi\uninstall_dialog_left_btn_p.9.png" description="" />
+    </resource>
+    <resource description="uninstall_dialog_right_btn_n.9" x="374" y="175" width="310" height="120" uuid="d5ad5f4c-1793-497f-a953-eccb4bcf37c4">
+        <path src="res\drawable-xhdpi\uninstall_dialog_right_btn_n.9.png" description="右边按钮" />
+        <path src="res\drawable-xhdpi\uninstall_dialog_right_btn_p.9.png" description="" />
+    </resource>
+    <resource description="uninstall_dialog_btn_divider.9" x="359" y="175" width="6" height="120" uuid="79c8d92f-cd0c-4815-9719-da32e8383953">
+        <path src="res\drawable-xhdpi\uninstall_dialog_btn_divider.9.png" description="分割线" />
+    </resource>
+</screenshot>

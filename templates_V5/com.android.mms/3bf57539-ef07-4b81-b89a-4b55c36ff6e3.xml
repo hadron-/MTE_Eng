@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1.2 New SMS 2" version="3.3.1" annotation="" tag="SMS session interface">
+    <resource description="title_bar_bg_two_row.9" x="0" y="50" width="716" height="150" uuid="8797e234-2562-4b79-8d7d-16441bfbc968">
+        <path src="res\drawable-xhdpi\title_bar_bg_two_row.9.png" description="两排联系人时候背景" />
+    </resource>
+    <resource description="top_place_holder_compose_msg_two_row.9" x="67" y="54" width="11" height="137" uuid="d230c567-a204-4b8f-961c-ef04bdd56150">
+        <path src="res\drawable-xhdpi\top_place_holder_compose_msg_two_row.9.png" description="占位图，用于控制title_bar_bg_two_row.9 与下方图片的距离" />
+    </resource>
+</screenshot>

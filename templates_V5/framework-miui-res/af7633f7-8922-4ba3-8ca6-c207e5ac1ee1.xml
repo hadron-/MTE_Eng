@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Bottom Icons" version="3.3.1" annotation="" tag="Misc">
+    <resource description="v5_bottom_bar_new_icon_normal_light" x="205" y="1161" width="53" height="49" uuid="c3fd34ca-b4a0-444e-87f4-43fddb0ab787">
+        <path src="res\drawable-xhdpi\v5_bottom_bar_new_icon_normal_light.png" description="新建，添加按钮" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_new_icon_pressed_light.png" description="新建，添加按钮 二态" />
+    </resource>
+    <resource description="v5_bottom_bar_rename_icon_pressed_light" x="335" y="1165" width="53" height="39" uuid="03968134-eb28-436d-aae5-ae62c4e37836">
+        <path src="res\drawable-xhdpi\v5_bottom_bar_rename_icon_normal_light.png" description="重命名图标" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_rename_icon_pressed_light.png" description="重命名图标 二态" />
+    </resource>
+    <resource description="v5_bottom_bar_delete_icon_pressed_light" x="467" y="1164" width="41" height="46" uuid="a0fddada-e908-4168-b7b3-e584b817d46a">
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_normal_light.png" description="删除图标" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_pressed_light.png" description="删除图标 二态" />
+    </resource>
+    <resource description="v5_bottom_bar_bg_light.9" x="0" y="1068" width="718" height="212" uuid="fd6ff8b0-dfda-4e26-a622-2fca1db8d5d0">
+        <path src="res\drawable-land-xhdpi\v5_bottom_bar_bg_light.9.png" description="底部按钮背景" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_bg_light.9.png" description="底部按钮背景" />
+    </resource>
+    <resource description="v5_bottom_bar_unfavorite_icon_pressed_light" x="598" y="1166" width="56" height="46" uuid="ff67401a-4518-4f63-b19c-e64ba303f85a">
+        <path src="res\drawable-xhdpi\v5_bottom_bar_add_to_icon_normal_light.png" description="增加" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_add_to_icon_pressed_light.png" description="增加" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_discard_icon_normal_light.png" description="结束" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_discard_icon_pressed_light.png" description="结束" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_icon_normal_light.png" description="编辑" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_icon_pressed_light.png" description="编辑" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_message_icon_normal_light.png" description="编写" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_message_icon_pressed_light.png" description="编写" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_normal_light.png" description="收藏" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_pressed_light.png" description="收藏" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_normal_light.png" description="更多" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_pressed_light.png" description="更多" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_move_to_icon_normal_light.png" description="移动" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_move_to_icon_pressed_light.png" description="移动" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_new_icon_normal_light.png" description="添加" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_new_icon_pressed_light.png" description="添加" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_refresh_icon_normal_light.png" description="刷新" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_refresh_icon_pressed_light.png" description="刷新" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_rename_icon_normal_light.png" description="重命名" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_rename_icon_pressed_light.png" description="重命名" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_save_icon_normal_light.png" description="保存" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_save_icon_pressed_light.png" description="保存" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_search_icon_normal_light.png" description="搜索" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_search_icon_pressed_light.png" description="搜索" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_send_icon_normal_light.png" description="发送" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_send_icon_pressed_light.png" description="发送" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_setting_icon_normal_light.png" description="设置" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_setting_icon_pressed_light.png" description="设置" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_share_icon_normal_light.png" description="分享" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_share_icon_pressed_light.png" description="分享" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_unfavorite_icon_normal_light.png" description="未收藏" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_unfavorite_icon_pressed_light.png" description="未收藏" />
+    </resource>
+</screenshot>

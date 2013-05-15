@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 Accessories menu 2" version="2.9.20" annotation="" tag="SMS attachments">
+    <resource description="ic_attach_timing_d.png" x="310" y="805" width="93" height="89" uuid="4d9b2d4e-b639-4dab-ab33-92be715c3988">
+        <path src="res\drawable-xhdpi\ic_attach_timing_d.png" description="定时 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_timing_n.png" description="定时" />
+    </resource>
+    <resource description="ic_attach_video_n.png" x="554" y="810" width="90" height="90" uuid="b9fed288-3f24-4c68-8620-fdea3f071b34">
+        <path src="res\drawable-xhdpi\ic_attach_video_d.png" description="视频图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_video_n.png" description="视频图标" />
+    </resource>
+    <resource description="ic_attach_record_video_n.png" x="74" y="1036" width="90" height="90" uuid="986b3eff-ab27-4c56-b33b-a8fab6841cba" />
+    <resource description="ic_attach_sound_d.png" x="312" y="1036" width="90" height="90" uuid="35c73a62-13aa-448e-892e-8d1d1143325b">
+        <path src="res\drawable-xhdpi\ic_attach_sound_d.png" description="音频图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_sound_n.png" description="音频图标" />
+    </resource>
+    <resource description="ic_attach_record_sound_n.png" x="552" y="1034" width="90" height="90" uuid="5c114939-d540-4cdd-b050-13a46b14b132">
+        <path src="res\drawable-xhdpi\ic_attach_record_sound_n.png" description="录音图标" />
+    </resource>
+    <resource description="ic_attach_festival_sms_n.png" x="71" y="803" width="90" height="90" uuid="56b8a109-2766-4b9c-8e7c-af9bd112a0b6">
+        <path src="res\drawable-xhdpi\ic_attach_festival_sms_d.png" description="短信精选图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_festival_sms_n.png" description="短信精选图标" />
+    </resource>
+    <resource description="attachment_screen_bg.9" x="0" y="762" width="722" height="518" uuid="d0b02ecd-f13e-4429-9e91-f8692de76572">
+        <path src="res\drawable-xhdpi\attachment_screen_bg.9.png" description="附件背景" />
+    </resource>
+</screenshot>

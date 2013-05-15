@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 Volume setting" version="3.2.27" annotation="" tag="Settings">
+    <resource description="ic_reset_volume_n" x="320" y="1136" width="80" height="90" uuid="d12ff3b9-2ee0-4e3e-b27d-1a4eec6d68bb">
+        <path src="res\drawable-hdpi\ic_reset_volume_n.png" description="重置铃声" />
+        <path src="res\drawable-hdpi\ic_reset_volume_p.png" description="重置铃声 二态" />
+        <path src="res\drawable-xhdpi\ic_reset_volume_n.png" description="重置铃声" />
+        <path src="res\drawable-xhdpi\ic_reset_volume_p.png" description="重置铃声 二态" />
+    </resource>
+</screenshot>

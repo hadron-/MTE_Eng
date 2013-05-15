@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 Mix" version="3.2.27" annotation="" tag="Mix">
+    <resource description="component_list_item_bg_n.9" x="10" y="236" width="346" height="166" uuid="0254a383-3f4b-4da8-89c0-e5f85fae4152">
+        <path src="res\drawable-xhdpi\component_list_item_bg_n.9.png" description="混搭模块背景" />
+    </resource>
+    <resource description="icon_component_lockstyle" x="44" y="288" width="58" height="58" uuid="8d805b59-07e5-4e5b-8c32-30ae636dae50">
+        <path src="res\drawable-xhdpi\icon_component_lockstyle.png" description="锁屏" />
+    </resource>
+    <resource description="icon_component_lockscreen" x="392" y="286" width="58" height="58" uuid="727a6680-9610-470c-ac49-c18caff7e562">
+        <path src="res\drawable-xhdpi\icon_component_lockscreen.png" description="锁屏壁纸" />
+    </resource>
+    <resource description="icon_component_icon" x="50" y="448" width="58" height="58" uuid="79667bda-2ada-4ac4-98e6-ac396d1925b3">
+        <path src="res\drawable-xhdpi\icon_component_icon.png" description="图标" />
+    </resource>
+    <resource description="icon_component_wallpaper" x="390" y="446" width="58" height="58" uuid="87ac1d14-6873-45c7-a74f-304868d1ff9d">
+        <path src="res\drawable-xhdpi\icon_component_wallpaper.png" description="壁纸" />
+    </resource>
+    <resource description="icon_component_ringtone" x="46" y="604" width="58" height="58" uuid="666fbcf7-1f4c-42ac-8b8c-d005910bc42a">
+        <path src="res\drawable-xhdpi\icon_component_ringtone.png" description="铃声" />
+    </resource>
+    <resource description="icon_component_notication" x="388" y="610" width="58" height="58" uuid="21b99c66-98db-46ab-a503-8b0fc5a62c6c">
+        <path src="res\drawable-xhdpi\icon_component_notication.png" description="通知铃声" />
+    </resource>
+    <resource description="icon_component_font" x="44" y="854" width="58" height="58" uuid="f2a2b4b7-e628-418a-ba9f-59495f71290b">
+        <path src="res\drawable-xhdpi\icon_component_font.png" description="字体" />
+    </resource>
+    <resource description="icon_component_statusbar" x="388" y="858" width="58" height="58" uuid="073b8b9f-3462-4e5f-a67e-3b7a94dbc28e">
+        <path src="res\drawable-xhdpi\icon_component_statusbar.png" description="通知栏" />
+    </resource>
+    <resource description="icon_component_launcher" x="46" y="1014" width="58" height="58" uuid="acb22da2-b31c-4384-b01f-7e6c76988fa9">
+        <path src="res\drawable-xhdpi\icon_component_launcher.png" description="桌面" />
+    </resource>
+    <resource description="icon_component_mms" x="392" y="1016" width="58" height="58" uuid="e76fab5b-020d-4dc6-bf79-07686670ce3b">
+        <path src="res\drawable-xhdpi\icon_component_mms.png" description="短信" />
+    </resource>
+    <resource description="icon_component_contact" x="46" y="1182" width="58" height="58" uuid="bfca953b-e432-4f2a-9497-752f6e87abd2">
+        <path src="res\drawable-xhdpi\icon_component_contact.png" description="拨号联系人" />
+    </resource>
+    <resource description="icon_component_boot_animation" x="392" y="1180" width="58" height="58" uuid="c7d08d49-7c4d-4c9e-9ef8-a56f4b27daca">
+        <path src="res\drawable-xhdpi\icon_component_boot_animation.png" description="开机动画" />
+    </resource>
+    <resource description="icon_component_boot_audio" x="300" y="1220" width="58" height="58" uuid="93a9071c-be28-4f23-a9f9-b1a77ada072d">
+        <path src="res\drawable-xhdpi\icon_component_boot_audio.png" description="开机铃声" />
+    </resource>
+</screenshot>

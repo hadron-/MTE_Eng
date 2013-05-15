@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.5 Add Phrase" version="3.3.1" annotation="" tag="SMS attachments">
+    <resource description="phrase_new_btn_n" x="318" y="1132" width="80" height="90" uuid="3106c885-1974-43f9-a7bd-62330202fe28">
+        <path src="res\drawable-xhdpi\phrase_new_btn_n.png" description="添加常用语" />
+        <path src="res\drawable-xhdpi\phrase_new_btn_p.png" description="添加常用语 二态" />
+    </resource>
+</screenshot>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Button controls" version="3.3.1" annotation="" tag="Popups">
+    <resource description="v5_popup_btn_first_pressed_light.9" x="0" y="1098" width="228" height="182" uuid="a72cc262-fad3-4d86-baa7-cde03ca66b2f">
+        <path src="res\drawable-xhdpi\v5_popup_btn_first_normal_light.9.png" description="左控件按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_first_pressed_light.9.png" description="左控件按钮 二态" />
+    </resource>
+    <resource description="v5_popup_btn_middle_pressed_light.9" x="250" y="1098" width="218" height="182" uuid="82f8bcdc-3034-4865-bdfc-7c6da58e646e">
+        <path src="res\drawable-xhdpi\v5_popup_btn_middle_normal_light.9.png" description="中控件按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_middle_pressed_light.9.png" description="中控件按钮 二态" />
+    </resource>
+    <resource description="v5_popup_btn_last_pressed_light.9" x="490" y="1094" width="204" height="182" uuid="e53ce290-85ea-4a5a-bd43-3d2898f72da1">
+        <path src="res\drawable-xhdpi\v5_popup_btn_last_normal_light.9.png" description="右控件按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_last_pressed_light.9.png" description="右控件按钮 二态" />
+    </resource>
+    <resource description="v5_dialog_bg_light.9" x="0" y="976" width="718" height="304" uuid="3b863e6a-1221-489c-a3f1-6d43d0b600c7">
+        <path src="res\drawable-xhdpi\v5_dialog_bg_light.9.png" description="控件弹窗背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Seekbar bar" version="2.9.21" annotation="" tag="Controls">
+    <resource description="v5_seekbar_control_pressed" x="616" y="231" width="39" height="44" uuid="a59cad8a-75e9-48a9-9502-ce73136f8f92">
+        <path src="res\drawable-xhdpi\v5_seekbar_control_disabled.png" description="拖动按钮 不可按" />
+        <path src="res\drawable-xhdpi\v5_seekbar_control_focused.png" description="选择" />
+        <path src="res\drawable-xhdpi\v5_seekbar_control_normal.png" description="常态" />
+        <path src="res\drawable-xhdpi\v5_seekbar_control_pressed.png" description="按下" />
+    </resource>
+    <resource description="v5_seekbar_progress_mask.9" x="114" y="220" width="554" height="64" uuid="cfd4987c-4e5e-478d-9ab8-e6b0e3e25e13">
+        <path src="res\drawable-xhdpi\v5_seekbar_bg.9.png" description="进度条背景" />
+        <path src="res\drawable-xhdpi\v5_seekbar_progress.9.png" description="进度条颜色" />
+        <path src="res\drawable-xhdpi\v5_seekbar_progress_mask.9.png" description="进度条遮罩" />
+    </resource>
+</screenshot>

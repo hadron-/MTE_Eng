@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Global list title" version="3.3.23" annotation="" tag="Misc">
+    <resource description="v5_list_view_section_item_bg_light.9" x="0" y="138" width="722" height="62" uuid="b2795bda-2056-4f33-aca9-1a044aa8dc0f">
+        <path src="res\drawable-xhdpi\v5_list_view_section_item_bg_light.9.png" description="全局列表标题" />
+    </resource>
+</screenshot>

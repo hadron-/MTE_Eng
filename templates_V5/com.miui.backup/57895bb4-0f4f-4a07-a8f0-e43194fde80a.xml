@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Restore complete" version="3.2.27" annotation="" tag="">
+    <resource description="result_succeed_bg.9" x="0" y="50" width="722" height="426" uuid="b4b63d28-c700-407a-94d4-100fec608eb2">
+        <path src="res\drawable-xhdpi\result_succeed_bg.9.png" description="备份成功背景" />
+    </resource>
+    <resource description="result_succeed" x="270" y="116" width="174" height="182" uuid="27c0bb85-debc-4e9f-84ed-1907134d9df3">
+        <path src="res\drawable-xhdpi\result_succeed.png" description="备份成功图标" />
+    </resource>
+</screenshot>

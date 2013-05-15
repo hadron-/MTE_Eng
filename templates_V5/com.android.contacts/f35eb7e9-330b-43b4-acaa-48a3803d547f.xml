@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 Group details" version="3.1.11" annotation="" tag="Groups">
+    <resource description="ic_menu_group_sms_n" x="256" y="1144" width="80" height="90" uuid="bd794e6e-773d-4ca6-b3aa-8d4fe3201fd4">
+        <path src="res\drawable-hdpi\ic_menu_group_sms_n.png" description="短信群发" />
+        <path src="res\drawable-hdpi\ic_menu_group_sms_p.png" description="短信群发 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_group_sms_n.png" description="短信群发" />
+        <path src="res\drawable-xhdpi\ic_menu_group_sms_p.png" description="短信群发 二态" />
+    </resource>
+    <resource description="ic_menu_group_ringtone_n" x="386" y="1138" width="80" height="90" uuid="94d2a773-ad2d-4960-8e84-cef4e625649d">
+        <path src="res\drawable-hdpi\ic_menu_group_ringtone_n.png" description="批量铃声" />
+        <path src="res\drawable-hdpi\ic_menu_group_ringtone_p.png" description="批量铃声 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_group_ringtone_n.png" description="批量铃声" />
+        <path src="res\drawable-xhdpi\ic_menu_group_ringtone_p.png" description="批量铃声 二态" />
+    </resource>
+    <resource description="ic_title_bar_back_button_normal_light" x="16" y="60" width="70" height="106" uuid="493bee04-7efa-4ea8-8263-a38db2195f38">
+        <path src="res\drawable-hdpi\ic_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-hdpi\ic_title_bar_back_button_pressed_light.png" description="返回按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\ic_title_bar_back_button_pressed_light.png" description="返回按钮 二态" />
+    </resource>
+    <resource description="group_detail_top_bg.9" x="0" y="50" width="722" height="142" uuid="21c970cd-02ff-4e49-abbd-bf135f5ec1c5">
+        <path src="res\drawable-hdpi\group_detail_top_bg.9.png" description="联系人群组 标题" />
+        <path src="res\drawable-xhdpi\group_detail_top_bg.9.png" description="联系人群组 标题" />
+    </resource>
+</screenshot>

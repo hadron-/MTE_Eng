@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1.3 New SMS 3" version="3.3.1" annotation="" tag="SMS session interface">
+    <resource description="title_bar_bg_three_row.9" x="0" y="48" width="722" height="206" uuid="713aa813-f668-44bc-ad97-d91a78c4a0b0">
+        <path src="res\drawable-xhdpi\title_bar_bg_three_row.9.png" description="三排联系人时候背景" />
+    </resource>
+    <resource description="top_place_holder_compose_msg_three_row.9" x="70" y="54" width="4" height="195" uuid="6c45331b-8021-4d3c-8c91-d13249c514de">
+        <path src="res\drawable-xhdpi\top_place_holder_compose_msg_three_row.9.png" description="占位图，用于控制 title_bar_bg_three_row.9 与下方图片的距离" />
+    </resource>
+    <resource description="recipient_editor_bg.9" x="220" y="177" width="303" height="52" uuid="57779c48-11dd-4733-b02c-c91faf680da8">
+        <path src="res\drawable-xhdpi\recipient_editor_bg.9.png" description="未添加联系人背景" />
+    </resource>
+</screenshot>

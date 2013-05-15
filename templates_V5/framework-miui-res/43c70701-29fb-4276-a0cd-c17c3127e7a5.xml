@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Single Item list" version="3.3.1" annotation="" tag="Popups">
+    <resource description="v5_dialog_list_item_bg_pressed_light.9" x="16" y="1190" width="680" height="70" uuid="e1fa3bbe-a3f6-42fa-a750-86aa47175484">
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_bg_normal_light.9.png" description="一条列表情况" />
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_bg_pressed_light.9.png" description="一条列表情况 二态" />
+    </resource>
+    <resource description="v5_menu_full_bg_light.9" x="0" y="1162" width="718" height="118" uuid="2dfeb3a6-db04-41b9-a260-f7ebc06046ce">
+        <path src="res\drawable-land-xhdpi\v5_menu_full_bg_light.9.png" description="列表背景" />
+        <path src="res\drawable-xhdpi\v5_menu_full_bg_light.9.png" description="列表背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Input box control" version="3.3.1" annotation="" tag="Controls">
+    <resource description="v5_edit_text_bg_light.9" x="36" y="1014" width="642" height="76" uuid="363067f2-1a67-48c8-b1cf-a35e0341b6ba">
+        <path src="res\drawable-xhdpi\v5_edit_text_bg_light.9.png" description="输入框" />
+    </resource>
+</screenshot>

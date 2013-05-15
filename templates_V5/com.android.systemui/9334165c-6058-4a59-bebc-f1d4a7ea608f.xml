@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 Bar,Switchs" version="1.0" annotation="" tag="Double Page Mode">
+    <resource description="notification_header_bg.9.png" x="8" y="8" width="702" height="102" uuid="e3a6bcb6-e475-4401-bd77-fd6a53da4b57">
+        <path src="res\drawable-xhdpi\notification_header_bg.9.png" description="通知栏顶部背景" />
+    </resource>
+    <resource description="ic_notify_quicksettings_pressed.png" x="610" y="14" width="88" height="82" uuid="08928555-f356-47b3-a3ed-f98d5e42ddfe">
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_normal.png" description="设置按钮" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_pressed.png" description="设置按钮" />
+    </resource>
+    <resource description="clock_0" x="26" y="18" width="148" height="72" uuid="6e1194b4-f51d-4b02-a7a1-676c7b6bea2a">
+        <path src="res\drawable-xhdpi\clock_0.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_1.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_2.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_3.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_4.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_5.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_6.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_7.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_8.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_9.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_colon.png" description="通知栏时间" />
+    </resource>
+    <resource description="status_bar_toggle_reboot" x="56" y="176" width="80" height="80" uuid="3f43fcbe-2139-46ed-8654-ef09ce1d805e">
+        <path src="res\drawable-hdpi\status_bar_toggle_reboot.png" description="重启" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_reboot.png" description="重启" />
+    </resource>
+    <resource description="status_bar_toggle_shutdown" x="228" y="174" width="80" height="80" uuid="a21c2a01-46b2-4e27-9d64-68c3b3e04aac">
+        <path src="res\drawable-hdpi\status_bar_toggle_shutdown.png" description="关机" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_shutdown.png" description="关机" />
+    </resource>
+    <resource description="status_bar_toggle_network_3g2g" x="402" y="172" width="80" height="80" uuid="7ffa63f8-871c-41f4-a87a-d4ddf6316eab">
+        <path src="res\drawable-hdpi\status_bar_toggle_network_3g2g.png" description="网络类型" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_network_3g2g.png" description="网络类型" />
+    </resource>
+    <resource description="status_bar_toggle_torch_on" x="584" y="178" width="80" height="80" uuid="2739dc2b-0a92-48af-8ee7-acb9014a6ca4">
+        <path src="res\drawable-hdpi\status_bar_toggle_torch_off.png" description="手电筒" />
+        <path src="res\drawable-hdpi\status_bar_toggle_torch_on.png" description="手电筒" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_torch_off.png" description="手电筒" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_torch_on.png" description="手电筒" />
+    </resource>
+    <resource description="status_bar_toggle_ac" x="56" y="426" width="80" height="80" uuid="8cf90bc8-98ac-4ebe-a07d-31fdde71af31">
+        <path src="res\drawable-hdpi\status_bar_toggle_ac.png" description="访问限制" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_ac.png" description="访问限制" />
+    </resource>
+    <resource description="status_bar_toggle_privacy_mode_on" x="228" y="424" width="80" height="80" uuid="4bb2818d-7dfc-46e0-a934-f121268617a8">
+        <path src="res\drawable-hdpi\status_bar_toggle_privacy_mode_off.png" description="访问限制" />
+        <path src="res\drawable-hdpi\status_bar_toggle_privacy_mode_on.png" description="访问限制" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_privacy_mode_off.png" description="访问限制" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_privacy_mode_on.png" description="访问限制" />
+    </resource>
+    <resource description="status_bar_toggle_screen_button_disabled" x="406" y="424" width="80" height="80" uuid="25cec4ad-bf3c-4eec-8aa8-a8eeaef097a9">
+        <path src="res\drawable-hdpi\status_bar_toggle_screen_button_disabled.png" description="屏幕按键" />
+        <path src="res\drawable-hdpi\status_bar_toggle_screen_button_enabled.png" description="屏幕按键" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_screen_button_disabled.png" description="屏幕按键" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_screen_button_enabled.png" description="屏幕按键" />
+    </resource>
+    <resource description="status_bar_toggle_lock" x="582" y="424" width="80" height="80" uuid="e69e9325-5598-46d3-b836-12fe7c11583d">
+        <path src="res\drawable-hdpi\status_bar_toggle_lock.png" description="锁屏" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_lock.png" description="锁屏" />
+    </resource>
+    <resource description="status_bar_toggle_drive_mode_on" x="58" y="672" width="80" height="80" uuid="e3cb7804-2738-4306-a9f1-d1f58af124c2">
+        <path src="res\drawable-hdpi\status_bar_toggle_drive_mode_off.png" description="开车模式" />
+        <path src="res\drawable-hdpi\status_bar_toggle_drive_mode_on.png" description="开车模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_drive_mode_off.png" description="开车模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_drive_mode_on.png" description="开车模式" />
+    </resource>
+    <resource description="expanded_toggles_bg.9" x="10" y="119" width="700" height="878" uuid="cadaaa35-d2f8-480c-8659-42c2b6d24f35">
+        <path src="res\drawable-xhdpi\expanded_toggles_bg.9.png" description="开关背景" />
+    </resource>
+    <resource description="status_bar_toggle_power_high" x="232" y="674" width="80" height="80" uuid="d0933e1a-ebb3-42d4-bc67-154668ed401a">
+        <path src="res\drawable-hdpi\status_bar_toggle_power_high.png" description="电量模式" />
+        <path src="res\drawable-hdpi\status_bar_toggle_power_low.png" description="电量模式" />
+        <path src="res\drawable-hdpi\status_bar_toggle_power_middle.png" description="电量模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_high.png" description="电量模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_low.png" description="电量模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_middle.png" description="电量模式" />
+    </resource>
+</screenshot>

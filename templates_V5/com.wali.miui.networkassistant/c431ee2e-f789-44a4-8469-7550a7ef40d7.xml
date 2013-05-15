@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 Traffic Ranking" version="3.2.27" annotation="" tag="Traffic Ranking">
+    <resource description="batch_control_normal" x="326" y="1140" width="80" height="90" uuid="edf7464f-b427-439b-a2cc-6a33a2587e20">
+        <path src="res\drawable-hdpi\batch_control_disable.png" description="批量控制图标，不可按" />
+        <path src="res\drawable-hdpi\batch_control_highlight.png" description="批量控制图标 二态" />
+        <path src="res\drawable-hdpi\batch_control_normal.png" description="批量控制图标" />
+        <path src="res\drawable-xhdpi\batch_control_disable.png" description="批量控制图标，不可按" />
+        <path src="res\drawable-xhdpi\batch_control_highlight.png" description="批量控制图标，二态" />
+        <path src="res\drawable-xhdpi\batch_control_normal.png" description="批量控制图标" />
+    </resource>
+</screenshot>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1.2 Unknown contacts Popup" version="3.2.27" annotation="" tag="Contacts">
+    <resource description="quickcontact_unknown_window_title_bg.9" x="44" y="306" width="634" height="130" uuid="62952a4b-a074-4e1c-b01e-9829d46b606e">
+        <path src="res\drawable-hdpi\quickcontact_unknown_window_title_bg.9.png" description="未知联系人标题" />
+        <path src="res\drawable-hdpi\quickcontact_unknown_window_title_bg_press.png" description="未知联系人标题 二态" />
+        <path src="res\drawable-xhdpi\quickcontact_unknown_window_title_bg.9.png" description="未知联系人标题" />
+        <path src="res\drawable-xhdpi\quickcontact_unknown_window_title_bg_press.png" description="未知联系人标题 二态" />
+    </resource>
+    <resource description="ic_send_sms_n" x="566" y="462" width="70" height="70" uuid="f37ac0f0-85b4-4fd9-a1d6-d4030283d32d">
+        <path src="res\drawable-hdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-hdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-xhdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+    </resource>
+    <resource description="quickcontact_window_bg.9.png" x="30" y="246" width="670" height="842" uuid="a5cf8baf-7a4b-4b71-8109-b339598a3e90">
+        <path src="res\drawable-hdpi\quickcontact_window_bg.9.png" description="720p 弹窗背景" />
+        <path src="res\drawable-xhdpi\quickcontact_window_bg.9.png" description="720p 弹窗背景" />
+    </resource>
+</screenshot>

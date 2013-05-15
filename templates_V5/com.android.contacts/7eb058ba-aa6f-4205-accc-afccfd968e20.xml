@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 Contact picture editing" version="3.2.27" annotation="" tag="Contacts">
+    <resource description="topbar_bg.9" x="0" y="0" width="720" height="272" uuid="55f84ccf-89cc-47f5-a334-77ec68f232f8">
+        <path src="res\drawable-hdpi\topbar_bg.9.png" description="头像选择 标题" />
+        <path src="res\drawable-xhdpi\topbar_bg.9.png" description="头像选择 标题" />
+    </resource>
+    <resource description="toolbar_bg.9" x="22" y="650" width="686" height="630" uuid="93b34e0d-929a-4a4d-8651-d2d55731960e">
+        <path src="res\drawable-hdpi\toolbar_bg.9.png" description="底部阴影" />
+        <path src="res\drawable-xhdpi\toolbar_bg.9.png" description="底部阴影" />
+    </resource>
+    <resource description="toolbar_button_n.9" x="22" y="1120" width="670" height="148" uuid="3fc061dc-6041-4946-bbd3-7fb74df54509">
+        <path src="res\drawable-hdpi\toolbar_button_n.9.png" description="底部按钮" />
+        <path src="res\drawable-hdpi\toolbar_button_p.9.png" description="底部按钮 二态" />
+        <path src="res\drawable-xhdpi\toolbar_button_n.9.png" description="底部按钮" />
+        <path src="res\drawable-xhdpi\toolbar_button_p.9.png" description="底部按钮 二态" />
+    </resource>
+    <resource description="contact_photo_thumbnail_area" x="0" y="122" width="720" height="728" uuid="f242f4a1-7f87-40b0-838b-845f2a16a164">
+        <path src="res\drawable-hdpi\contact_photo_thumbnail_area.png" description="头像选框" />
+        <path src="res\drawable-xhdpi\contact_photo_thumbnail_area.png" description="头像选框" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="592" y="8" width="112" height="80" uuid="65195f6b-ad00-4e12-a1d9-ec2071ada01d">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="12" y="12" width="112" height="80" uuid="dd0fb0a7-43c1-46a3-91fe-d8770d29417c">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+    </resource>
+</screenshot>

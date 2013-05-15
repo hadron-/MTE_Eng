@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 Widget Resize" version="3.2.27" annotation="" tag="Normal mode">
+    <resource description="widget_resize_frame_holo.9" x="114" y="404" width="474" height="310" uuid="021bb80f-5b39-4646-866b-74f8a6dd5bea">
+        <path src="res\drawable-xhdpi\widget_resize_frame_holo.9.png" description="线框" />
+    </resource>
+    <resource description="widget_resize_handle_bottom" x="342" y="618" width="34" height="52" uuid="5e34848a-2f50-4543-aa5e-166b9fd997da">
+        <path src="res\drawable-xhdpi\widget_resize_handle_bottom.png" description="顶部按钮" />
+    </resource>
+    <resource description="widget_resize_handle_left" x="158" y="534" width="52" height="34" uuid="94259c7d-8d58-4021-b8fe-4f984957677a">
+        <path src="res\drawable-xhdpi\widget_resize_handle_left.png" description="左侧按钮" />
+    </resource>
+    <resource description="widget_resize_handle_right" x="514" y="532" width="52" height="34" uuid="f7c851eb-b791-4dfd-868f-92e33ac590aa">
+        <path src="res\drawable-xhdpi\widget_resize_handle_right.png" description="右侧按钮" />
+    </resource>
+    <resource description="widget_resize_handle_top" x="340" y="428" width="34" height="52" uuid="20916852-a612-417f-94e3-288391055300">
+        <path src="res\drawable-xhdpi\widget_resize_handle_top.png" description="顶部按钮" />
+    </resource>
+</screenshot>

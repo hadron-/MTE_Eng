@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 Scanning stoped" version="3.2.27" annotation="" tag="Virus scan">
+    <resource description="virus_scan_app_stop_bg.9" x="0" y="48" width="722" height="440" uuid="79b81aa4-db3e-47e2-92ff-c0bcf64217b8">
+        <path src="res\drawable-hdpi\virus_scan_app_stop_bg.9.png" description="扫描停止 背景" />
+        <path src="res\drawable-xhdpi\virus_scan_app_stop_bg.9.png" description="扫描停止 背景" />
+    </resource>
+    <resource description="virus_scan_status_ok" x="634" y="520" width="54" height="54" uuid="35257fd8-5d5a-47b7-b1b9-5bd2a5aa0b51">
+        <path src="res\drawable-hdpi\virus_scan_status_ok.png" description="" />
+        <path src="res\drawable-xhdpi\virus_scan_status_ok.png" description="" />
+    </resource>
+</screenshot>

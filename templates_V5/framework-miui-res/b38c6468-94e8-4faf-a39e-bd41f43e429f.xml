@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Secondry tab" version="2.9.16" annotation="" tag="Misc">
+    <resource description="v5_secondary_tab_indicator_bg_light.9" x="0" y="140" width="722" height="92" uuid="b1825fd8-f1d7-4249-a214-d35306e4faee">
+        <path src="res\drawable-xhdpi\v5_secondary_tab_indicator_bg_light.9.png" description="二级tab背景" />
+    </resource>
+    <resource description="v5_secondary_tab_bg_left_pressed_light.9" x="7" y="148" width="352" height="72" uuid="4b4509d7-fc13-4fc3-919c-5970286dba0a">
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_left_normal_light.9.png" description="左边tab" />
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_left_pressed_light.9.png" description="左边tab 二态" />
+    </resource>
+    <resource description="v5_secondary_tab_bg_middle_pressed_light.9" x="366" y="148" width="35" height="72" uuid="39733380-5046-45de-b517-9ed4e29f4c22">
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_middle_normal_light.9.png" description="中间tab" />
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_middle_pressed_light.9.png" description="中间tab 二态" />
+    </resource>
+    <resource description="v5_secondary_tab_bg_right_normal_light.9" x="430" y="148" width="272" height="74" uuid="6ab19726-3b78-4834-a4db-b66674d6951b">
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_right_normal_light.9.png" description="右边tab" />
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_right_pressed_light.9.png" description="右边tab 二态" />
+    </resource>
+</screenshot>

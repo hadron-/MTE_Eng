@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 Traffic usage" version="3.2.27" annotation="" tag="Traffic usage">
+    <resource description="plate_bg" x="0" y="246" width="720" height="620" uuid="21d05df3-86d8-4130-9242-21764d3c6562">
+        <path src="res\drawable-hdpi\plate_bg.png" description="中间圆圈背景" />
+        <path src="res\drawable-xhdpi\plate_bg.png" description="中间圆圈背景" />
+    </resource>
+    <resource description="plate_bg_bottom" x="0" y="872" width="720" height="154" uuid="8a168f0d-b122-496f-9133-857abb00707e">
+        <path src="res\drawable-hdpi\plate_bg_bottom.png" description="下背景" />
+        <path src="res\drawable-xhdpi\plate_bg_bottom.png" description="下背景" />
+    </resource>
+    <resource description="plate_bg_top" x="0" y="139" width="720" height="108" uuid="5d591582-66d6-4071-89b5-f2bf40a193d0">
+        <path src="res\drawable-hdpi\plate_bg_top.png" description="顶部背景" />
+        <path src="res\drawable-xhdpi\plate_bg_top.png" description="顶部背景" />
+    </resource>
+    <resource description="plate_used_bg" x="78" y="278" width="562" height="564" uuid="c3d66d83-84a8-4caa-88a1-0ff3ae24c2e9">
+        <path src="res\drawable-hdpi\plate_used_bg.png" description="已使用进度背景" />
+        <path src="res\drawable-xhdpi\plate_used_bg.png" description="已使用进度背景" />
+    </resource>
+    <resource description="plate_point" x="156" y="318" width="434" height="452" uuid="ac73a2c8-dca7-45a3-a1de-737231d4ef51">
+        <path src="res\drawable-hdpi\plate_point.png" description="指示背景" />
+        <path src="res\drawable-xhdpi\plate_point.png" description="指示背景" />
+    </resource>
+    <resource description="plate_pointer" x="79" y="529" width="282" height="55" uuid="aa669d3e-d45f-4e2d-9c41-d8ff215b38b7">
+        <path src="res\drawable-hdpi\plate_pointer.png" description="指示指针" />
+        <path src="res\drawable-xhdpi\plate_pointer.png" description="指示指针" />
+    </resource>
+    <resource description="plate_point_shadow" x="160" y="338" width="428" height="432" uuid="231eee2b-41a3-4b5a-a1c5-de1c92ded482">
+        <path src="res\drawable-hdpi\plate_point_shadow.png" description="高光遮罩" />
+        <path src="res\drawable-xhdpi\plate_point_shadow.png" description="高光遮罩" />
+    </resource>
+</screenshot>

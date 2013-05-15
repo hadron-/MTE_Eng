@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Global,Round Corners" version="3.3.1" annotation="" tag="Misc">
+    <resource description="rounded_corner_bottom_left" x="0" y="1232" width="46" height="48" uuid="cbb87f3e-1347-45c6-a407-bed1efb32910">
+        <path src="res\drawable-xhdpi\rounded_corner_bottom_left.png" description="左下圆角" />
+    </resource>
+    <resource description="rounded_corner_bottom_right" x="666" y="1232" width="54" height="48" uuid="9459dac4-0dc0-454d-a298-e589a8986116">
+        <path src="res\drawable-xhdpi\rounded_corner_bottom_right.png" description="右下圆角" />
+    </resource>
+    <resource description="rounded_corner_top_left" x="0" y="48" width="48" height="52" uuid="2f252002-f77a-478f-ad88-0076291f5be9">
+        <path src="res\drawable-xhdpi\rounded_corner_top_left.png" description="左上圆角" />
+    </resource>
+    <resource description="rounded_corner_top_right" x="672" y="46" width="48" height="50" uuid="055ae13c-d8cf-464b-830a-7a742388bb11">
+        <path src="res\drawable-xhdpi\rounded_corner_top_right.png" description="右上圆角" />
+    </resource>
+    <resource description="v5_window_bg_light.9" x="0" y="0" width="716" height="1282" uuid="80a38bf8-210e-4d1f-9054-0114a89f034a">
+        <path src="res\drawable-xhdpi\v5_window_bg_light.9.png" description="全局背景" />
+    </resource>
+</screenshot>

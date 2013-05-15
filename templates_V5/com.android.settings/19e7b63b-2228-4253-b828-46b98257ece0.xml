@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.4 Battery use" version="3.2.27" annotation="" tag="Settings">
+    <resource description="ic_refresh_n" x="316" y="1140" width="80" height="90" uuid="f8d06221-9aad-4dad-a961-4d2caa418bea">
+        <path src="res\drawable-hdpi\ic_refresh_n.png" description="刷新" />
+        <path src="res\drawable-hdpi\ic_refresh_p.png" description="刷新 二态" />
+        <path src="res\drawable-xhdpi\ic_refresh_n.png" description="刷新" />
+        <path src="res\drawable-xhdpi\ic_refresh_p.png" description="刷新 二态" />
+    </resource>
+</screenshot>

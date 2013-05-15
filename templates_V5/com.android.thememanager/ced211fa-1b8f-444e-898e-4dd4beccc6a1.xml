@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 Module selection" version="3.1.11" annotation="" tag="Theme">
+    <resource description="component_item_check" x="175" y="239" width="54" height="59" uuid="cfa0c253-d45e-4ca3-9231-6d0c3ff11cfa">
+        <path src="res\drawable-xhdpi\component_item_check.png" description="选择模块" />
+    </resource>
+    <resource description="component_detail_item_bg_n.9" x="17" y="219" width="228" height="105" uuid="3d7c33c6-b333-4650-9e0b-117bc234223e">
+        <path src="res\drawable-xhdpi\component_detail_item_bg_n.9.png" description="模块背景" />
+        <path src="res\drawable-xhdpi\component_detail_item_bg_p.9.png" description="模块背景 二态" />
+    </resource>
+    <resource description="resource_detail_n" x="46" y="1134" width="110" height="134" uuid="41e41b47-50af-4dfe-95e3-8465510d3880">
+        <path src="res\drawable-hdpi\resource_detail_n.png" description="手机预览" />
+        <path src="res\drawable-hdpi\resource_detail_p.png" description="手机预览 二态" />
+        <path src="res\drawable-xhdpi\resource_detail_n.png" description="手机预览" />
+        <path src="res\drawable-xhdpi\resource_detail_p.png" description="手机预览 二态" />
+    </resource>
+    <resource description="resource_detail_single_button_n.9" x="182" y="1130" width="352" height="132" uuid="455c2ae2-ea7f-45e9-8d8f-9176d6d8aa9e">
+        <path src="res\drawable-hdpi\resource_detail_single_button_d.9.png" description="应用按钮 不可按" />
+        <path src="res\drawable-hdpi\resource_detail_single_button_n.9.png" description="应用按钮" />
+        <path src="res\drawable-hdpi\resource_detail_single_button_p.9.png" description="应用按钮 二态" />
+        <path src="res\drawable-xhdpi\resource_detail_single_button_d.9.png" description="应用按钮 不可按" />
+        <path src="res\drawable-xhdpi\resource_detail_single_button_n.9.png" description="应用按钮" />
+        <path src="res\drawable-xhdpi\resource_detail_single_button_p.9.png" description="应用按钮 二态" />
+    </resource>
+    <resource description="resource_delete_n" x="558" y="1124" width="110" height="134" uuid="4cdb3233-df5c-4b29-9178-57d4e9212d12">
+        <path src="res\drawable-hdpi\resource_delete_n.png" description="删除按钮" />
+        <path src="res\drawable-hdpi\resource_delete_p.png" description="删除按钮" />
+        <path src="res\drawable-xhdpi\resource_delete_n.png" description="删除按钮" />
+        <path src="res\drawable-xhdpi\resource_delete_p.png" description="删除按钮" />
+    </resource>
+</screenshot>

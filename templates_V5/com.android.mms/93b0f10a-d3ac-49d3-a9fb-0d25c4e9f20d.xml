@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.3 Accessories menu 3" version="2.9.20" annotation="" tag="SMS attachments">
+    <resource description="ic_attach_slide_show_n.png" x="72" y="806" width="90" height="90" uuid="6e00edca-1291-4fb4-ae6f-ef2668528cdf">
+        <path src="res\drawable-xhdpi\ic_attach_slide_show_d.png" description="幻灯片图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_slide_show_n.png" description="幻灯片图标" />
+    </resource>
+    <resource description="ic_attach_subject_n.png" x="310" y="809" width="89" height="81" uuid="44801d2a-3769-497a-a4cc-04503de71e3c">
+        <path src="res\drawable-xhdpi\ic_attach_subject_d.png" description="主题图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_subject_n.png" description="主题图标" />
+    </resource>
+    <resource description="attachment_screen_bg.9" x="0" y="762" width="722" height="518" uuid="024b911e-7719-4df7-aa5e-c74b69cb8884">
+        <path src="res\drawable-xhdpi\attachment_screen_bg.9.png" description="附件背景" />
+    </resource>
+</screenshot>

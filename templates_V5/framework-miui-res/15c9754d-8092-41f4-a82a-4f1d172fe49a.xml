@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Top" version="3.3.1" annotation="" tag="Popups">
+    <resource description="v5_list_popup_window_bg_down_light.9" x="0" y="230" width="716" height="358" uuid="a9f1fc4e-81ed-4399-ac7d-db42d4e41d29">
+        <path src="res\drawable-xhdpi\v5_list_popup_window_bg_down_light.9.png" description="上弹窗" />
+    </resource>
+</screenshot>

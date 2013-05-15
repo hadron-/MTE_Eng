@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="DateTime Picker, Button " version="3.3.1" annotation="" tag="Popups">
+    <resource description="v5_number_picker_left" x="0" y="562" width="56" height="520" uuid="c57790f0-3cb6-42d1-b39d-1281e86a4bfb">
+        <path src="res\drawable-xhdpi\v5_number_picker_left.png" description="左边背景" />
+    </resource>
+    <resource description="v5_number_picker_right" x="680" y="558" width="40" height="520" uuid="5f9b1e77-2d95-44c2-b887-5aaa4b375a0f">
+        <path src="res\drawable-xhdpi\v5_number_picker_right.png" description="右边背景" />
+    </resource>
+    <resource description="v5_number_picker_divider" x="291" y="570" width="13" height="522" uuid="90c9fe0f-941a-4a5d-8da5-931bdf00da71">
+        <path src="res\drawable-xhdpi\v5_number_picker_divider.png" description="分割线" />
+    </resource>
+    <resource description="v5_number_picker_selector.9" x="60" y="774" width="612" height="132" uuid="62daf885-c4fa-4ff0-8962-d55dc06957f1">
+        <path src="res\drawable-xhdpi\v5_number_picker_selector.9.png" description="选中高亮" />
+    </resource>
+    <resource description="v5_number_picker_bg.9" x="68" y="560" width="604" height="522" uuid="2dd24003-845f-4558-b5df-cb2667d5411a">
+        <path src="res\drawable-xhdpi\v5_number_picker_bg.9.png" description="背景" />
+    </resource>
+    <resource description="v5_popup_btn_single_pressed_light.9" x="0" y="1098" width="716" height="182" uuid="f3ac27ed-afb6-472e-a02b-e25a26b0bdbe">
+        <path src="res\drawable-xhdpi\v5_popup_btn_single_normal_light.9.png" description="弹窗按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_single_pressed_light.9.png" description="弹窗按钮 二态" />
+    </resource>
+    <resource description="v5_dialog_bg_light.9" x="0" y="432" width="718" height="848" uuid="832ebc2b-de0d-4c9b-87f2-29d85ad1f296">
+        <path src="res\drawable-xhdpi\v5_dialog_bg_light.9.png" description="控件弹窗背景" />
+    </resource>
+</screenshot>

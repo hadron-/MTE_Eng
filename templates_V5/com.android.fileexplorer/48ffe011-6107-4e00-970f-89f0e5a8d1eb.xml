@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 OTG" version="3.2.27" annotation="" tag="2.0 SDCard">
+    <resource description="volume_switch_normal" x="0" y="138" width="90" height="90" uuid="b2bc5f0c-acca-430c-916c-db5c5206ef0f">
+        <path src="res\drawable-xhdpi\volume_switch_normal.png" description="存储设备弹窗显示按钮" />
+        <path src="res\drawable-xhdpi\volume_switch_pressed.png" description="存储设备弹窗显示按钮 二态" />
+    </resource>
+    <resource description="dropdown_normal.9" x="0" y="230" width="722" height="126" uuid="46ce7d5e-b176-4fdc-9464-95bfd107da69">
+        <path src="res\drawable-xhdpi\dropdown_normal.9.png" description="存储设备列表" />
+        <path src="res\drawable-xhdpi\dropdown_panel_bg.9.png" description="存储设备弹窗背景" />
+        <path src="res\drawable-xhdpi\dropdown_pressed.9.png" description="存储设备列表 二态" />
+    </resource>
+    <resource description="storage_usb_n" x="22" y="394" width="38" height="38" uuid="23418b74-77db-407c-abcf-548498ea465a">
+        <path src="res\drawable-xhdpi\storage_sd_card_n.png" description="" />
+        <path src="res\drawable-xhdpi\storage_sd_card_p.png" description="" />
+        <path src="res\drawable-xhdpi\storage_usb_n.png" description="" />
+        <path src="res\drawable-xhdpi\storage_usb_p.png" description="" />
+    </resource>
+    <resource description="storage_internal_n" x="26" y="268" width="38" height="38" uuid="d561dfba-29f1-46e4-a1a7-e249c28d1ef3">
+        <path src="res\drawable-xhdpi\storage_internal_n.png" description="" />
+        <path src="res\drawable-xhdpi\storage_internal_p.png" description="" />
+    </resource>
+</screenshot>

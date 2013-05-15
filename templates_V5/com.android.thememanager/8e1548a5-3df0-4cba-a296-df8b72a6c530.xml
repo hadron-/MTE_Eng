@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 Local theme" version="3.1.11" annotation="" tag="Theme">
+    <resource description="action_bar_logo" x="8" y="64" width="78" height="64" uuid="72d75d91-6425-4e02-9ce2-c17f9f28d7fa">
+        <path src="res\drawable-hdpi\action_bar_logo.png" description="主题图标" />
+        <path src="res\drawable-xhdpi\action_bar_logo.png" description="主题图标" />
+    </resource>
+    <resource description="theme_oper_info_bar_bg_n.9" x="0" y="228" width="718" height="102" uuid="a08bbee6-f52e-4171-bfff-316cafeae0ee">
+        <path src="res\drawable-xhdpi\theme_oper_info_bar_bg_n.9.png" description="转化主题背景" />
+        <path src="res\drawable-xhdpi\theme_oper_info_bar_bg_p.9.png" description="转化主题背景 二态" />
+    </resource>
+    <resource description="ic_batch_import_info" x="14" y="238" width="70" height="80" uuid="26016759-6393-4c29-8ca7-0cd426c25e67">
+        <path src="res\drawable-xhdpi\ic_batch_import_info.png" description="转化图标" />
+    </resource>
+    <resource description="batch_import_arrow" x="632" y="239" width="80" height="80" uuid="182d8515-7dfd-4c21-8ab0-5bc7dea5fa24">
+        <path src="res\drawable-xhdpi\batch_import_arrow.png" description="进入图标" />
+    </resource>
+    <resource description="flag_using" x="186" y="630" width="40" height="40" uuid="7629cfff-06ad-4a7b-b95f-3105cea96052">
+        <path src="res\drawable-hdpi\flag_using.png" description="选择按钮" />
+        <path src="res\drawable-xhdpi\flag_using.png" description="选择按钮" />
+    </resource>
+</screenshot>

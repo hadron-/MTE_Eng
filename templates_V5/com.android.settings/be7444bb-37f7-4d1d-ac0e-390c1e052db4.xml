@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.5.1 Applications" version="3.2.27" annotation="" tag="Settings">
+    <resource description="ic_uninstall_n" x="382" y="1140" width="80" height="90" uuid="57ba943b-7609-4b09-96ab-bada2160d683">
+        <path src="res\drawable-xhdpi\ic_uninstall_n.png" description="卸载图标" />
+        <path src="res\drawable-xhdpi\ic_uninstall_p.png" description="卸载图标 二态" />
+    </resource>
+</screenshot>

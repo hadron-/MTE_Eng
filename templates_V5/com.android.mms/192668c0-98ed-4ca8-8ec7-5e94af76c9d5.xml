@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 Accessories menu 1" version="2.9.20" annotation="" tag="SMS attachments">
+    <resource description="ic_attach_smiley_n.png" x="74" y="804" width="90" height="90" uuid="a1af4b65-5b40-45dd-871f-345c8ddac2fa">
+        <path src="res\drawable-xhdpi\ic_attach_smiley_d.png" description="表情图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_smiley_n.png" description="表情图标 we" />
+    </resource>
+    <resource description="ic_attach_contact_n.png" x="314" y="802" width="89" height="89" uuid="0c74d08e-ff8f-4c50-98e3-410fa112a5d8">
+        <path src="res\drawable-xhdpi\ic_attach_contact_d.png" description="联系人图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_contact_n.png" description="联系人图标" />
+    </resource>
+    <resource description="ic_attach_nickname_d.png" x="554" y="802" width="92" height="92" uuid="4baafc3c-829b-49e7-90b1-a991aa13edf1">
+        <path src="res\drawable-xhdpi\ic_attach_nickname_d.png" description="群发称呼图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_nickname_n.png" description="群发称呼图标" />
+    </resource>
+    <resource description="ic_attach_photo_n.png" x="74" y="1028" width="91" height="91" uuid="2aed554b-1a23-43a1-ad00-80ebb4c6792f">
+        <path src="res\drawable-xhdpi\ic_attach_photo_d.png" description="图片图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_photo_n.png" description="图片图标" />
+    </resource>
+    <resource description="ic_attach_take_photo_n.png" x="314" y="1030" width="89" height="89" uuid="073fd63a-9e18-4de9-9d8f-4c7792b6a06b">
+        <path src="res\drawable-xhdpi\ic_attach_take_photo_d.png" description="拍照图标，不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_take_photo_n.png" description="拍照图标" />
+    </resource>
+    <resource description="ic_attach_phrase_n.png" x="555" y="1025" width="89" height="89" uuid="19e1cb43-9ceb-41c6-ba55-eb1f0dff22d1">
+        <path src="res\drawable-xhdpi\ic_attach_phrase_d.png" description="收藏图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_attach_phrase_n.png" description="收藏图标" />
+    </resource>
+    <resource description="attachment_screen_bg.9" x="0" y="762" width="722" height="518" uuid="1687bfd5-9561-491e-bbb7-6a360f5e25ec">
+        <path src="res\drawable-xhdpi\attachment_screen_bg.9.png" description="附件背景" />
+    </resource>
+    <resource description="smiley_item_bg_p.9" x="15" y="771" width="219" height="203" uuid="b9068daa-2ed5-453c-bd82-0c2f8a66e2f2">
+        <path src="res\drawable-xhdpi\smiley_item_bg_p.9.png" description="按下二态" />
+    </resource>
+</screenshot>

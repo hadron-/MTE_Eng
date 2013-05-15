@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 Batch Data control" version="3.2.27" annotation="" tag="Traffic Ranking">
+    <resource description="internet_disable" x="586" y="394" width="40" height="40" uuid="442567c1-f73a-458b-81c5-57b7a4f02be6">
+        <path src="res\drawable-hdpi\internet_disable.png" description="不可用" />
+        <path src="res\drawable-xhdpi\internet_disable.png" description="不可用" />
+    </resource>
+    <resource description="internet_enable" x="588" y="272" width="40" height="40" uuid="371618bd-ed13-4f1c-9459-27a874475460">
+        <path src="res\drawable-hdpi\internet_enable.png" description="可用" />
+        <path src="res\drawable-xhdpi\internet_enable.png" description="可用" />
+    </resource>
+    <resource description="internet_disable_partial" x="586" y="156" width="40" height="40" uuid="a6a348b2-0e59-4e9c-bd64-63841492b14c">
+        <path src="res\drawable-hdpi\internet_disable_partial.png" description="不可操作" />
+        <path src="res\drawable-xhdpi\internet_disable_partial.png" description="不可操作" />
+    </resource>
+    <resource description="internet_enable_partial" x="658" y="156" width="40" height="40" uuid="45e14068-5824-431b-951f-8ecfe803cd97">
+        <path src="res\drawable-hdpi\internet_enable_partial.png" description="批量操作" />
+        <path src="res\drawable-xhdpi\internet_enable_partial.png" description="批量操作" />
+    </resource>
+    <resource description="new_install_app_highlight" x="320" y="1136" width="80" height="90" uuid="31e3447d-0aaf-4e4c-a24f-23a56865da54">
+        <path src="res\drawable-hdpi\new_install_app_highlight.png" description="设置按钮 二态" />
+        <path src="res\drawable-hdpi\new_install_app_normal.png" description="设置图标" />
+        <path src="res\drawable-xhdpi\new_install_app_highlight.png" description="设置图标 二态" />
+        <path src="res\drawable-xhdpi\new_install_app_normal.png" description="设置图标" />
+    </resource>
+</screenshot>

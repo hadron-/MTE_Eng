@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 Empty folder" version="2.9.16" annotation="" tag="2.0 SDCard">
+    <resource description="empty_icon.png" x="254" y="566" width="206" height="176" uuid="a278acea-991e-4c60-a646-9eb98d465830">
+        <path src="res\drawable-hdpi\empty_icon.png" description="没有文件图标" />
+    </resource>
+    <resource description="v5_bottom_bar_ftp_icon_normal_light" x="318" y="1144" width="80" height="90" uuid="ae05abbf-ee93-4d1c-a654-5adc63cf05cd">
+        <path src="res\drawable-xhdpi\v5_bottom_bar_ftp_icon_normal_light.png" description="远程管理图标" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_ftp_icon_pressed_light.png" description="远程管理图标 二态" />
+    </resource>
+</screenshot>

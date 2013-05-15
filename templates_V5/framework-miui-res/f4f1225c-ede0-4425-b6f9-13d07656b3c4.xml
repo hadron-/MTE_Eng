@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Dark list" version="3.3.1" annotation="" tag="Misc">
+    <resource description="v5_list_view_first_item_bg_pressed_dark.9" x="0" y="232" width="708" height="112" uuid="0cad3b79-7ebf-49f7-8f78-72180533445f">
+        <path src="res\drawable-xhdpi\v5_list_view_first_item_bg_normal_dark.9.png" description="深色背景列表 第一条" />
+        <path src="res\drawable-xhdpi\v5_list_view_first_item_bg_pressed_dark.9.png" description="深色背景列表 第一条 按下" />
+        <path src="res\drawable-xhdpi\v5_list_view_first_item_bg_selected_dark.9.png" description="深色背景列表 第一条 选中" />
+    </resource>
+    <resource description="v5_list_view_last_item_bg_selected_dark.9" x="0" y="490" width="718" height="110" uuid="cad0588f-ada2-453c-ba1f-e02640dce33f">
+        <path src="res\drawable-xhdpi\v5_list_view_last_item_bg_normal_dark.9.png" description="深色背景列表 最后一条" />
+        <path src="res\drawable-xhdpi\v5_list_view_last_item_bg_pressed_dark.9.png" description="深色背景列表 最后一条 二态" />
+        <path src="res\drawable-xhdpi\v5_list_view_last_item_bg_selected_dark.9.png" description="深色背景列表 最后一条 选中" />
+    </resource>
+    <resource description="v5_list_view_middle_item_bg_normal_dark.9" x="6" y="356" width="712" height="122" uuid="60f91ce9-fd28-430c-9653-d439bd2e5dc3">
+        <path src="res\drawable-xhdpi\v5_list_view_middle_item_bg_normal_dark.9.png" description="深色背景列表 中间" />
+        <path src="res\drawable-xhdpi\v5_list_view_middle_item_bg_pressed_dark.9.png" description="深色背景列表 中间 二态" />
+        <path src="res\drawable-xhdpi\v5_list_view_middle_item_bg_selected_dark.9.png" description="深色背景列表 中间 选中" />
+    </resource>
+    <resource description="v5_list_view_single_item_bg_selected_dark.9" x="0" y="614" width="718" height="110" uuid="6c6aab15-5272-4eca-956b-dd3e483220fe">
+        <path src="res\drawable-xhdpi\v5_list_view_single_item_bg_normal_dark.9.png" description="单独一条列表" />
+        <path src="res\drawable-xhdpi\v5_list_view_single_item_bg_pressed_dark.9.png" description="单独一条列表 二态" />
+        <path src="res\drawable-xhdpi\v5_list_view_single_item_bg_selected_dark.9.png" description="单独一条列表 选中" />
+    </resource>
+    <resource description="v5_title_bar_bg_dark" x="0" y="48" width="720" height="90" uuid="125759e6-eb64-4e09-a23d-459803c5034c">
+        <path src="res\drawable-xhdpi\v5_title_bar_bg_dark.png" description="列表标题栏" />
+    </resource>
+    <resource description="v5_window_bg_dark.9" x="0" y="0" width="720" height="1278" uuid="216007c1-3fed-4eed-a3f2-0ee833f0f0ca">
+        <path src="res\drawable-xhdpi\v5_window_bg_dark.9.png" description="全局深色背景" />
+    </resource>
+</screenshot>

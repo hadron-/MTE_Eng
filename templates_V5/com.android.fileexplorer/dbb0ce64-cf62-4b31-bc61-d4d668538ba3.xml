@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 Micloud edit mode" version="3.1.11" annotation="" tag="3.0 Micloud">
+    <resource description="v5_progress_bar_bg" x="648" y="156" width="54" height="54" uuid="8d7f4e2d-cf2c-4aec-836e-2e145ad185e1">
+        <path src="res\drawable-xhdpi\v5_progress_bar_bg.png" description="" />
+    </resource>
+    <resource description="v5_progress_bar_light" x="657" y="167" width="35" height="37" uuid="761148d3-daf9-4921-8089-636770fe447b">
+        <path src="res\drawable-xhdpi\v5_progress_bar_light.png" description="等待条" />
+    </resource>
+    <resource description="image_icon_down" x="77" y="601" width="34" height="36" uuid="95db8599-2221-4a99-99d6-6a8ee910fe86">
+        <path src="res\drawable-xhdpi\image_icon_down.png" description="下载完成" />
+        <path src="res\drawable-xhdpi\image_task_item_download.png" description="下载ing" />
+        <path src="res\drawable-xhdpi\image_task_item_upload.png" description="上传ing" />
+    </resource>
+</screenshot>

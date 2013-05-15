@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Progress Bar Intermediat" version="3.3.1" annotation="" tag="Installation">
+    <resource description="v5_progress_indeterminate5" x="0" y="678" width="720" height="54" uuid="c7953cdf-a17e-412f-b566-9e9ec0cfc712">
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate1.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate2.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate3.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate4.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate5.png" description="等待条" />
+    </resource>
+</screenshot>

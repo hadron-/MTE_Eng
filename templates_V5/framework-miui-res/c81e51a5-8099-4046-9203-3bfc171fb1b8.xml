@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Edit Mode,Check Button" version="3.3.1" annotation="" tag="SMS">
+    <resource description="v5_bottom_bar_delete_icon_pressed_dark" x="405" y="946" width="39" height="41" uuid="23f417ae-385f-4d05-a6c7-19b0c3e6eb00">
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_disable_dark.png" description="黑色背景 删除 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_normal_dark.png" description="黑色背景 删除" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_pressed_dark.png" description="黑色背景 删除 按下" />
+    </resource>
+    <resource description="v5_bottom_bar_favorite_icon_pressed_dark" x="275" y="941" width="44" height="48" uuid="4a187014-ead6-4283-ac55-5faab6ad47b2">
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_disable_dark.png" description="黑色背景 收藏 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_normal_dark.png" description="黑色背景 收藏" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_pressed_dark.png" description="黑色背景 收藏 按下" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_bg_light.9" x="0" y="770" width="720" height="290" uuid="f1b7c4fd-aa70-4568-8fd9-d9e2b368562e">
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_bg_light.9.png" description="编辑模式底部背景" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_bg_light.9.png" description="编辑模式底部背景" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_bg_light.9" x="0" y="48" width="718" height="122" uuid="30e0bb54-7a93-4048-a6c6-d83bd94787f1">
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_bg_light.9.png" description="编辑模式顶部背景" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="598" y="54" width="112" height="78" uuid="894c852e-ade1-4b69-a671-d939c86ee7c0">
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+    </resource>
+    <resource description="v5_bottom_bar_more_icon_normal_dark" x="528" y="944" width="46" height="43" uuid="633ad95e-923e-4926-a09a-bc2fd9ad3a35">
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_normal_dark.png" description="黑色背景 更多按钮" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_pressed_light.png" description="黑色背景 更多按钮 按下" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="10" y="54" width="112" height="78" uuid="527eac3d-9408-4caa-875e-ed6d4873fa9e">
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_list_bg_light.9" x="0" y="1064" width="720" height="216" uuid="3f81be8f-144d-420c-b0dd-c5b614195537">
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_list_bg_light.9.png" description="更多列表 背景" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_list_bg_light.9.png" description="更多列表 背景" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9" x="114" y="908" width="108" height="140" uuid="9338ce09-3d56-4a2d-87e7-be717899532c">
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式第一个小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式第一个小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式第一个小豆豆 按下选中" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="单独一个小豆豆选中" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式第一个小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式第一个小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式第一个小豆豆 按下选中" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="单独一个小豆豆选中" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9" x="506" y="916" width="92" height="126" uuid="d391fefc-3e12-4367-a7fb-a4bb41b114e6">
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="最后一个小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="最后一个小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="最后一个小豆豆 选中" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="最后一个小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="最后一个小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="最后一个小豆豆 选中" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9" x="376" y="916" width="94" height="132" uuid="a178467a-aa6f-4cf6-9d9a-cac4be2a744e">
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间部分小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间部分小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="中间部分小豆豆 选中" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间部分小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间部分小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="中间部分小豆豆 选中" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_list_item_bg_pressed_light.9" x="10" y="1070" width="694" height="98" uuid="1c3a95d4-12e2-43f9-b2ec-98db4f3a8b4e">
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_list_item_bg_normal_light.9.png" description="更多列表" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_list_item_bg_pressed_light.9.png" description="更多列表 按下" />
+    </resource>
+    <resource description="v5_btn_checkbox_on_normal_light" x="620" y="340" width="68" height="76" uuid="497d6e33-d3c8-4222-b72f-ffa54a754831">
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_disabled_light.png" description="未选中不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_normal_light.png" description="未选中" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_disabled_light.png" description="选中不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_normal_light.png" description="选中" />
+    </resource>
+</screenshot>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 Notifications" version="3.1.11" annotation="" tag="Double Page Mode">
+    <resource description="flow_status_bg.9" x="8" y="1026" width="702" height="84" uuid="0ab20a3e-892c-4a3f-9c92-61d0bc41b249">
+        <path src="res\drawable-xhdpi\flow_status_bg.9.png" description="流量信息背景" />
+    </resource>
+    <resource description="status_bar_flow_bg" x="44" y="1048" width="38" height="38" uuid="85fd9cb4-5fe4-4ca7-a5fa-7b90dc7f332d">
+        <path src="res\drawable-xhdpi\status_bar_flow_bg.png" description="流量监控背景" />
+        <path src="res\drawable-xhdpi\status_bar_flow_warning.png" description="流量超过" />
+    </resource>
+    <resource description="notification_header_bg.9.png" x="8" y="6" width="700" height="96" uuid="db664550-5111-4e35-8c4b-c417701c39d6">
+        <path src="res\drawable-xhdpi\notification_header_bg.9.png" description="时间，日期背景" />
+    </resource>
+    <resource description="ic_notify_quicksettings_pressed.png" x="610" y="18" width="80" height="72" uuid="10acba6b-9d4d-45a7-a094-dd74d72e2390">
+        <path src="res\drawable-xhdpi\ic_notify_clear_normal.png" description="清除按钮" />
+        <path src="res\drawable-xhdpi\ic_notify_clear_pressed.png" description="清除按钮二态" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_normal.png" description="设置按钮" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_pressed.png" description="设置按钮二态" />
+    </resource>
+    <resource description="usb_notification_help_bg_n.9" x="524" y="256" width="168" height="80" uuid="4a0b6be0-ab4c-4562-9e0e-ea29170f5db4">
+        <path src="res\drawable-xhdpi\usb_notification_help_bg_n.9.png" description="获取帮助按钮" />
+        <path src="res\drawable-xhdpi\usb_notification_help_bg_p.9.png" description="获取帮助按钮二态" />
+    </resource>
+    <resource description="clock_0" x="26" y="18" width="134" height="72" uuid="2aef80b3-f5d9-42b6-9024-e9e552410aee">
+        <path src="res\drawable-xhdpi\clock_0.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_1.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_2.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_3.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_4.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_5.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_6.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_7.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_8.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_9.png" description="时间图片" />
+        <path src="res\drawable-xhdpi\clock_colon.png" description="时间图片" />
+    </resource>
+    <resource description="ic_menu_share" x="42" y="794" width="40" height="40" uuid="b822dbf4-ccf1-4924-be7d-f4e2b37e7c5d">
+        <path src="res\drawable-xhdpi\ic_menu_share.png" description="分享按钮" />
+    </resource>
+    <resource description="usb_notification_ptp_n.9" x="390" y="142" width="144" height="74" uuid="e94e8229-8188-4c10-9caa-62bdafeef4e1">
+        <path src="res\drawable-xhdpi\usb_notification_ptp_n.9.png" description="看照片按钮" />
+        <path src="res\drawable-xhdpi\usb_notification_ptp_p.9.png" description="看照片按钮 二态" />
+    </resource>
+    <resource description="usb_notification_mtp_p.9" x="542" y="142" width="144" height="74" uuid="c5048fee-466f-454e-8ffc-5d3f365e1772">
+        <path src="res\drawable-xhdpi\usb_notification_mtp_n.9.png" description="传文件按钮" />
+        <path src="res\drawable-xhdpi\usb_notification_mtp_p.9.png" description="传文件按钮 二态" />
+    </resource>
+    <resource description="usb_notification_bottom_bg.9" x="12" y="242" width="700" height="112" uuid="a98810a1-a4f1-4973-9368-fe0bb9cb6863">
+        <path src="res\drawable-xhdpi\usb_notification_bottom_bg.9.png" description="获取帮助背景" />
+    </resource>
+    <resource description="notification_item_first_bg_n.9" x="16" y="878" width="688" height="132" uuid="de962ef5-5cd4-48bc-a741-a59678121252">
+        <path src="res\drawable-xhdpi\notification_item_first_bg_n.9.png" description="通知栏列表第一条" />
+        <path src="res\drawable-xhdpi\notification_item_first_bg_p.9.png" description="通知栏列表第一条 按下" />
+        <path src="res\drawable-xhdpi\notification_item_last_bg_n.9.png" description="通知栏列表最后一条 " />
+        <path src="res\drawable-xhdpi\notification_item_last_bg_p.9.png" description="通知栏列表最后一条 按下" />
+        <path src="res\drawable-xhdpi\notification_item_mid_bg_n.9.png" description="通知栏列表中间部分" />
+        <path src="res\drawable-xhdpi\notification_item_mid_bg_p.9.png" description="通知栏列表中间部分 按下" />
+        <path src="res\drawable-xhdpi\notification_item_single_bg_n.9.png" description="通知栏列表单独一条" />
+        <path src="res\drawable-xhdpi\notification_item_single_bg_p.9.png" description="通知栏列表单独一条 按下" />
+    </resource>
+</screenshot>

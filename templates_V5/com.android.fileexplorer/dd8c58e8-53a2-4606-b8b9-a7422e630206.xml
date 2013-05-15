@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 Micloud" version="2.9.16" annotation="" tag="3.0 Micloud">
+    <resource description="icon_logo" x="154" y="298" width="384" height="394" uuid="fcc6969e-a06b-4f19-bfa6-9aa984fe95c9">
+        <path src="res\drawable-xhdpi\icon_logo.png" description="金山快盘logo" />
+    </resource>
+</screenshot>

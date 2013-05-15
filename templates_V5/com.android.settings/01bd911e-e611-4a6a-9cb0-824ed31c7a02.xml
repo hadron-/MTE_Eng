@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.6 Restore factory settings" version="3.2.27" annotation="" tag="Settings">
+    <resource description="ic_clear_n" x="318" y="1138" width="80" height="90" uuid="c11d2a8a-d256-4896-a242-4c4084f8a5c2">
+        <path src="res\drawable-hdpi\ic_clear_n.png" description="重置手机" />
+        <path src="res\drawable-hdpi\ic_clear_p.png" description="重置手机 二态" />
+        <path src="res\drawable-xhdpi\ic_clear_n.png" description="重置手机" />
+        <path src="res\drawable-xhdpi\ic_clear_p.png" description="重置手机 二态" />
+    </resource>
+</screenshot>

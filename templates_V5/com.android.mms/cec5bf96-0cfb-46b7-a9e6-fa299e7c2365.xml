@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.0 Phrases" version="3.3.1" annotation="" tag="SMS attachments">
+    <resource description="new_phrase" x="40" y="918" width="34" height="34" uuid="e9ad7c1a-105c-4fe1-9a30-b2e32639b561">
+        <path src="res\drawable-xhdpi\new_phrase.png" description="增加短语加号" />
+    </resource>
+    <resource description="attachment_screen_bg.9" x="0" y="762" width="722" height="518" uuid="d0019c5b-4d16-4b0c-b582-39893264cb6a">
+        <path src="res\drawable-xhdpi\attachment_screen_bg.9.png" description="附件背景" />
+    </resource>
+</screenshot>

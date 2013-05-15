@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Settings,WLAN,OnOff" version="3.3.1" annotation="" tag="Controls">
+    <resource description="v5_sliding_btn_slider_pressed" x="552" y="203" width="107" height="61" uuid="6a7637c3-3678-44f3-b95b-c1155578faa0">
+        <path src="res\drawable-xhdpi\v5_sliding_btn_frame.png" description="开关顶部遮罩" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_mask.png" description="形状遮罩" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_off.png" description="关闭状态背景" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_off_disable.png" description="关闭状态 不可按" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_on.png" description="开状态 背景" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_on_disable.png" description="开状态，不可按" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_slider.png" description="开关按钮" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_slider_pressed.png" description="开关按钮 按下" />
+    </resource>
+    <resource description="v5_preference_first_item_bg_pressed.9" x="21" y="376" width="669" height="114" uuid="6f421f2e-47e6-40ab-93d9-66c92623a182">
+        <path src="res\drawable-xhdpi\v5_preference_first_item_bg_normal.9.png" description="顶部分类" />
+        <path src="res\drawable-xhdpi\v5_preference_first_item_bg_pressed.9.png" description="顶部分类 二态" />
+    </resource>
+    <resource description="v5_preference_last_item_bg_pressed.9" x="19" y="714" width="671" height="114" uuid="f8532807-0e82-4b0c-9309-7d6234414e2b">
+        <path src="res\drawable-xhdpi\v5_preference_last_item_bg_normal.9.png" description=" 底部分类" />
+        <path src="res\drawable-xhdpi\v5_preference_last_item_bg_pressed.9.png" description="" />
+    </resource>
+    <resource description="v5_preference_middle_item_bg_pressed.9" x="20" y="492" width="670" height="107" uuid="ed9451df-3c6a-4904-8f72-0942e6cafc2e">
+        <path src="res\drawable-xhdpi\v5_preference_middle_item_bg_normal.9.png" description="分类中间" />
+        <path src="res\drawable-xhdpi\v5_preference_middle_item_bg_pressed.9.png" description="分类中间 二态" />
+    </resource>
+    <resource description="v5_btn_radio_off_first_light.9" x="30" y="384" width="17" height="102" uuid="ef7ab827-85f5-4a08-a00c-58f43b81ca68">
+        <path src="res\drawable-xhdpi\v5_btn_radio_off_first_light.9.png" description="单选第一个 未选中" />
+        <path src="res\drawable-xhdpi\v5_btn_radio_on_first_disabled_light.9.png" description="单选第一个 选中 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_radio_on_first_light.9.png" description="单选第一个 选中" />
+    </resource>
+    <resource description="v5_btn_radio_off_middle_light.9" x="28" y="497" width="18" height="100" uuid="4eb6c449-99d6-43f1-873b-1f5ed3b9686b">
+        <path src="res\drawable-xhdpi\v5_btn_radio_off_middle_light.9.png" description="单选中间 未选中" />
+        <path src="res\drawable-xhdpi\v5_btn_radio_on_middle_disabled_light.9.png" description="单选中间 选中不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_radio_on_middle_light.9.png" description="单选中间 选中" />
+    </resource>
+    <resource description="v5_btn_radio_on_last_light.9" x="29" y="721" width="18" height="98" uuid="04735c58-d5da-45a0-8ebf-a4d6adec60eb">
+        <path src="res\drawable-xhdpi\v5_btn_radio_off_last_light.9.png" description="最后一个 未选中" />
+        <path src="res\drawable-xhdpi\v5_btn_radio_on_last_disabled_light.9.png" description="最后一个 选中 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_radio_on_last_light.9.png" description="最后一个 选中" />
+    </resource>
+    <resource description="v5_btn_radio_on_single_light.9" x="28" y="182" width="22" height="107" uuid="d5418999-dc2f-4edc-bb2f-fb81e34e338f">
+        <path src="res\drawable-xhdpi\v5_btn_radio_off_single_light.9.png" description="单个 未选中" />
+        <path src="res\drawable-xhdpi\v5_btn_radio_on_single_disabled_light.9.png" description="单个 选中 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_radio_on_single_light.9.png" description="单个 选中" />
+    </resource>
+    <resource description="v5_preference_single_item_bg_pressed.9" x="8" y="169" width="686" height="136" uuid="64b68eff-b06e-46d6-ad07-88b3762b8636">
+        <path src="res\drawable-xhdpi\v5_preference_single_item_bg_normal.9.png" description="分类单个" />
+        <path src="res\drawable-xhdpi\v5_preference_single_item_bg_pressed.9.png" description="分类单个 二态" />
+    </resource>
+    <resource description="v5_btn_next_pressed_light" x="610" y="408" width="50" height="52" uuid="c98f5731-4c9d-45c4-8a4f-9b6a8d3e9fcb">
+        <path src="res\drawable-xhdpi\v5_btn_next_disabled_light.png" description="进入按钮 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_next_normal_light.png" description="进入按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_next_pressed_light.png" description="进入按钮 二态" />
+    </resource>
+    <resource description="v5_arrow_right_p" x="626" y="1038" width="36" height="24" uuid="8e4dd253-5632-4a4a-8f37-885cc2c3b29e">
+        <path src="res\drawable-xhdpi\v5_arrow_right_n.png" description="" />
+        <path src="res\drawable-xhdpi\v5_arrow_right_p.png" description="" />
+    </resource>
+    <resource description="v5_title_bar_back_button_pressed_light" x="20" y="66" width="44" height="55" uuid="a64b116b-1c04-413d-8423-9b6620cdec9c">
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_normal_light.png" description="" />
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_pressed_light.png" description="" />
+    </resource>
+    <resource description="v5_title_bar_bg_light.9" x="0" y="50" width="722" height="92" uuid="9e6eafb9-e4b5-453f-a16c-282c69699399">
+        <path src="res\drawable-land-xhdpi\v5_title_bar_bg_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\v5_title_bar_bg_light.9.png" description="" />
+    </resource>
+</screenshot>

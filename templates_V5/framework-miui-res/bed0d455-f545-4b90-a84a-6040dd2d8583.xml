@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Progress bar Course" version="3.3.1" annotation="" tag="Controls">
+    <resource description="v5_progress_mask.9" x="116" y="274" width="474" height="56" uuid="239c541a-2c8b-4783-a5ca-cb3ad9eda509">
+        <path src="res\drawable-xhdpi\v5_progress_bar.9.png" description="进度条" />
+        <path src="res\drawable-xhdpi\v5_progress_horizontal_bg.9.png" description="进度条背景" />
+        <path src="res\drawable-xhdpi\v5_progress_mask.9.png" description="进度条形状遮罩" />
+    </resource>
+    <resource description="v5_btn_bg_rect_pressed_light.9" x="602" y="258" width="106" height="86" uuid="2a58b0f7-a14a-47dd-8a4c-40a6b685b3d1">
+        <path src="res\drawable-xhdpi\v5_btn_bg_rect_normal_light.9.png" description="小按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_rect_pressed_light.9.png" description="小按钮 二态" />
+    </resource>
+</screenshot>

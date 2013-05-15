@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 Group details2" version="3.2.26" annotation="" tag="Groups">
+    <resource description="ic_menu_group_rename_n" x="320" y="1138" width="80" height="90" uuid="552aefad-0996-4549-ab43-5cd680d09fb6">
+        <path src="res\drawable-hdpi\ic_menu_group_rename_n.png" description="重命名" />
+        <path src="res\drawable-hdpi\ic_menu_group_rename_p.png" description="重命名" />
+        <path src="res\drawable-xhdpi\ic_menu_group_rename_n.png" description="重命名" />
+        <path src="res\drawable-xhdpi\ic_menu_group_rename_p.png" description="重命名" />
+    </resource>
+    <resource description="list_empty_no_contact" x="294" y="566" width="130" height="130" uuid="e1fcf425-a7f4-4624-84a0-2945b010e811">
+        <path src="res\drawable-hdpi\list_empty_no_contact.png" description="无联系人背景" />
+        <path src="res\drawable-xhdpi\list_empty_no_contact.png" description="无联系人背景" />
+    </resource>
+    <resource description="group_detail_top_bg.9" x="0" y="50" width="722" height="142" uuid="63dafb00-7535-4147-8e2d-8b9dcd4aedad">
+        <path src="res\drawable-hdpi\group_detail_top_bg.9.png" description="联系人群组 标题" />
+        <path src="res\drawable-xhdpi\group_detail_top_bg.9.png" description="联系人群组 标题" />
+    </resource>
+    <resource description="ic_title_bar_back_button_normal_light" x="16" y="60" width="69" height="109" uuid="9033904f-dc7e-41bf-b412-c7990534a058">
+        <path src="res\drawable-hdpi\ic_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-hdpi\ic_title_bar_back_button_pressed_light.png" description="返回按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\ic_title_bar_back_button_pressed_light.png" description="返回按钮 二态" />
+    </resource>
+</screenshot>

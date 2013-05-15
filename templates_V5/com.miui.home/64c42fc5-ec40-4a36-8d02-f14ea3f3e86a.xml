@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 widget Edit Mode" version="2.9.16" annotation="" tag="Edit mode">
+    <resource description="gadget_edit_tag_p.png" x="574" y="100" width="52" height="52" uuid="b841629d-1146-4387-8467-a85db41c2da0">
+        <path src="res\drawable-xhdpi\gadget_edit_tag_n.png" description="插件编辑按钮" />
+        <path src="res\drawable-xhdpi\gadget_edit_tag_p.png" description="插件编辑按钮 二态" />
+    </resource>
+    <resource description="home_edit_box_area_4_4.png" x="88" y="1234" width="30" height="26" uuid="19ebd8e4-4116-49b1-8b37-c6b74b713126">
+        <path src="res\drawable-hdpi\home_edit_box_area_1_1.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_1_2.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_1_3.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_1_4.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_2_1.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_2_2.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_2_3.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_2_4.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_3_1.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_3_2.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_3_3.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_3_4.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_4_1.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_4_2.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_4_3.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_4_4.png" description="插件所占屏幕空间" />
+    </resource>
+    <resource description="home_edit_topbar_del_select.9.png" x="0" y="0" width="720" height="92" uuid="aba293b4-23ef-4012-8202-bc560f1391dc">
+        <path src="res\drawable-hdpi\home_edit_topbar_del_normal.9.png" description="" />
+    </resource>
+    <resource description="editing_bg" x="0" y="0" width="712" height="1270" uuid="4bf2cd43-b78b-4d3d-be17-0a7d25805c81">
+        <path src="res\drawable-hdpi\editing_bg.png" description="编辑模式背景" />
+    </resource>
+    <resource description="editing_screen_bg.9" x="36" y="78" width="638" height="858" uuid="2d1803cb-5e7d-4c9c-b7b3-c475c871d564">
+        <path src="res\drawable-xhdpi\editing_screen_bg.9.png" description="编辑模式桌面背景" />
+    </resource>
+</screenshot>

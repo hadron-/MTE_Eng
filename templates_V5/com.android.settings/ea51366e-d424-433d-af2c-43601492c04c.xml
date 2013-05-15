@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 Scanning" version="3.2.27" annotation="" tag="Virus scan">
+    <resource description="virus_scan_app_scanning_bg.9" x="0" y="50" width="722" height="426" uuid="a9db447b-c32d-4f78-b7cf-0da0c3112708">
+        <path src="res\drawable-hdpi\virus_scan_app_scanning_bg.9.png" description="正在扫描背景" />
+        <path src="res\drawable-xhdpi\virus_scan_app_scanning_bg.9.png" description="正在扫描背景" />
+    </resource>
+    <resource description="virus_scan_status_ok" x="632" y="510" width="54" height="54" uuid="6129188c-3eca-4a3f-afd2-f883fd2b7d57">
+        <path src="res\drawable-hdpi\virus_scan_status_ok.png" description="完成按钮" />
+        <path src="res\drawable-xhdpi\virus_scan_status_ok.png" description="完成按钮" />
+    </resource>
+    <resource description="virus_scan_status_scanning_bg" x="626" y="622" width="74" height="75" uuid="388d4a7a-aa1b-4b8e-afbd-561ab47eeb4d">
+        <path src="res\drawable-hdpi\virus_scan_status_scanning_bg.png" description="等待圈背景" />
+        <path src="res\drawable-xhdpi\virus_scan_status_scanning_bg.png" description="等待圈背景" />
+    </resource>
+    <resource description="virus_scan_status_scanning" x="642" y="642" width="38" height="36" uuid="796c50da-f692-41c5-a500-6ea20adb2ccc">
+        <path src="res\drawable-hdpi\virus_scan_status_scanning.png" description="等待圈" />
+        <path src="res\drawable-xhdpi\virus_scan_status_scanning.png" description="等待圈" />
+    </resource>
+</screenshot>

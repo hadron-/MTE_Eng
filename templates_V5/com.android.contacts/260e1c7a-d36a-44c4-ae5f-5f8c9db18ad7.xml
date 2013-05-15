@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.1 Dial pad" version="2.9.16" annotation="" tag="Dialer">
+    <resource description="dialer_btn_delete_pressed.png" x="510" y="1146" width="174" height="114" uuid="4aae87a5-b8cb-4715-a09f-a44a86b8434d">
+        <path src="res\drawable-hdpi\dialer_btn_delete_normal.png" description="删除" />
+        <path src="res\drawable-hdpi\dialer_btn_delete_pressed.png" description="删除" />
+        <path src="res\drawable-xhdpi\dialer_btn_delete_normal.png" description="删除" />
+        <path src="res\drawable-xhdpi\dialer_btn_delete_pressed.png" description="删除" />
+    </resource>
+    <resource description="dialer_btn_call_pressed.png" x="232" y="1144" width="248" height="104" uuid="62a4e79d-3482-4c8c-bab1-f2fd76abda83">
+        <path src="res\drawable-hdpi\dialer_btn_call_normal.png" description="拨号" />
+        <path src="res\drawable-hdpi\dialer_btn_call_pressed.png" description="拨号 二态" />
+        <path src="res\drawable-xhdpi\dialer_btn_call_normal.png" description="拨号" />
+        <path src="res\drawable-xhdpi\dialer_btn_call_pressed.png" description="拨号 二态" />
+    </resource>
+    <resource description="dialer_background.9.png" x="0" y="636" width="718" height="484" uuid="fe5f6db0-15dc-4704-9f8c-0c5df5c14673">
+        <path src="res\drawable-hdpi\dialer_background.9.png" description="底板" />
+        <path src="res\drawable-xhdpi\dialer_background.9.png" description="底板" />
+    </resource>
+    <resource description="dialer_bottom_bar_bg.9.png" x="0" y="1118" width="720" height="162" uuid="5c484a08-4139-4e57-a8b3-f6ae1f996aa0">
+        <path src="res\drawable-hdpi\dialer_bottom_bar_bg.9.png" description="底部背景" />
+        <path src="res\drawable-xhdpi\dialer_bottom_bar_bg.9.png" description="底部背景" />
+    </resource>
+    <resource description="dialer_button_pressed" x="241" y="756" width="238" height="122" uuid="298c6669-9543-40ab-b4b2-5415ab1451e2">
+        <path src="res\drawable-hdpi\dialer_button_pressed.png" description="按下二态" />
+        <path src="res\drawable-xhdpi\dialer_button_pressed.png" description="按下二态" />
+    </resource>
+    <resource description="dialer_btn_close_dialpad_normal" x="44" y="1142" width="138" height="104" uuid="a578bead-3bd7-4c26-8532-2ce7fafe6bdb">
+        <path src="res\drawable-hdpi\dialer_btn_close_dialpad_normal.png" description="收起键盘" />
+        <path src="res\drawable-hdpi\dialer_btn_close_dialpad_pressed.png" description="收起键盘" />
+        <path src="res\drawable-xhdpi\dialer_btn_close_dialpad_normal.png" description="收起键盘" />
+        <path src="res\drawable-xhdpi\dialer_btn_close_dialpad_pressed.png" description="收起键盘" />
+    </resource>
+    <resource description="dialer_buttons" x="22" y="642" width="662" height="456" uuid="1788fef5-0f32-4336-b246-28c450d6b745">
+        <path src="res\drawable-hdpi\dialer_buttons.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\dialer_buttons.png" description="键盘数字" />
+    </resource>
+    <resource description="dialer_digits_clear_btn_normal" x="594" y="58" width="110" height="76" uuid="b199444a-c496-4bad-952a-b71cc04b9aa7">
+        <path src="res\drawable-hdpi\dialer_digits_clear_btn_normal.png" description="清空按钮" />
+        <path src="res\drawable-hdpi\dialer_digits_clear_btn_pressed.png" description="清空按钮" />
+        <path src="res\drawable-xhdpi\dialer_digits_clear_btn_normal.png" description="清空按钮" />
+        <path src="res\drawable-xhdpi\dialer_digits_clear_btn_pressed.png" description="清空按钮" />
+    </resource>
+    <resource description="list_splitter_opaque.9" x="0" y="138" width="718" height="62" uuid="3524ba29-1c52-448a-86c9-1c5f2ed99322">
+        <path src="res\drawable-hdpi\list_splitter_opaque.9.png" description="服务热线背景" />
+        <path src="res\drawable-xhdpi\list_splitter_opaque.9.png" description="服务热线背景" />
+    </resource>
+</screenshot>
